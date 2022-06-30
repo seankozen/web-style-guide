@@ -1,4 +1,5 @@
-## **Web Style Guide Utilizing Sass**
+# **Web Style Guide Utilizing Sass**
+
 
 ## How I worked on this project
 - I built this app based on a given mockup.
